@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nume": "Academia de Studii Economice",
+    "facultati": [
+      {
+        "id": 1,
+        "universitateId": 1,
+        "nume": "Facultatea de Cibernetică, Statistică și Informatică Economică ",
+        "departamente": [
+          {
+            "id": 1,
+            "facultateId": 1,
+            "nume": "Departamentul de Informatică și Cibernetică Economică"
+          },
+          {
+            "id": 2,
+            "facultateId": 1,
+            "nume": "Departamentul de Statistică și Econometrie"
+          },
+          {
+            "id": 3,
+            "facultateId": 1,
+            "nume": "Departamentul de Matematici Aplicate\n"
+          }
+        ]
+      }
+    ]
+  }
+]

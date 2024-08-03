@@ -1,0 +1,20 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_option1"
+        android:title="Adaugă Notițe"
+        android:icon="@drawable/ic_option1"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_option2"
+        android:title="Vezi notitele"
+        android:icon="@drawable/ic_option2"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_option3"
+        android:title="Despre"
+        android:icon="@drawable/ic_option3"
+        app:showAsAction="always" />
+</menu>
